@@ -1,0 +1,1 @@
+To use this file, you need to download the NIFTI toolbox from https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image. As matlab has a nifti reader now, I may change the script later.
